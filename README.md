@@ -1,4 +1,3 @@
-ocr app to be deployed 
 # Deploying Optical Character Recognition on Cloud
 
 This is the demo to be deployed as an API for optical character recognition
